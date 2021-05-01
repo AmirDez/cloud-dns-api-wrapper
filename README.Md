@@ -12,5 +12,5 @@ You may find the image below for how to set up the environment.
 
 
 ### Don't forget to replace my sample API key in the config file.
-![alt text](https://github.com/AmirDez/Images/CloudDnsWrapper.jpg "How to setup")
+![alt text](https://github.com/AmirDez/cloud-dns-api-wrapper/blob/main/Images/CloudDnsWrapper.jpg "How to setup")
 
