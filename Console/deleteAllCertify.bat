@@ -1,0 +1,1 @@
+"%~dpConsole.exe" cmd=delete_all domain=%1 name=%2

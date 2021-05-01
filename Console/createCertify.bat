@@ -1,0 +1,1 @@
+"%~dp0Console.exe" cmd=create domain=%1 name=%2 value=%3
